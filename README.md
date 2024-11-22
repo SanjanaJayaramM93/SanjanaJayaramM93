@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Sanjana Jayaram Mottemmal
 
-<!--
-**SanjanaJayaramM93/SanjanaJayaramM93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **About Me**  
+- 🌟 Cybersecurity Professional & Full-Stack Developer  
+- 🔒 Passionate about enhancing security in web applications and cloud environments  
+- 📚 Graduated with a Master's in Cybersecurity & Computing from Curtin University  
 
-Here are some ideas to get you started:
+🌍 **Currently Based In**  
+ Perth, WA, Australia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ **Tech Skills**  
+**Cybersecurity & Penetration Testing**  
+- Web Security, CI/CD Attacks, Log Tampering, SQL Injection, etc.  
+
+**Software & Web Development**  
+- Proficient in JavaScript, Python, React.js, Node.js, PHP, etc.  
+
+**Cloud & DevOps**  
+- AWS, Docker, Kubernetes, CI/CD pipelines  
+
+**Tools & Technologies**  
+- BloodHound, Metasploit, Nmap, MSFVenom, MongoDB, etc.
